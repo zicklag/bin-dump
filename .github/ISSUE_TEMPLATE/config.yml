@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Questions
+    url: https://github.community/
+    about: Ask a question
+  - name: Other discussions
+    url: https://bounty.github.com/
+    about: Start any other kind of discussion
